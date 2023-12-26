@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>hola</h1>
+<img src="https://img.freepik.com/foto-gratis/experiencia-programacion-persona-que-trabaja-codigos-computadora_23-2150010125.jpg">
 <!--
 **JeimyRiveraDuque/JeimyRiveraDuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
