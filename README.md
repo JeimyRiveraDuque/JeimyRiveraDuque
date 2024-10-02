@@ -1,5 +1,5 @@
 ### BIENVENIDOS 👩🏻‍💻<br>
-<table>
+<table border="none">
   <tr>
     <td><img height="200" src="https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif"></td>
     <td><strong>No vine del futuro, pero como programadora, hago que el futuro llegue más rápido.</strong></td>
