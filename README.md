@@ -1,8 +1,8 @@
 ### BIENVENIDOS 👩🏻‍💻<br>
-<div style="display: flex; align-items: center;">
-    <img height="200" src="https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif" style="margin-right: 20px;">
-    <p><strong>No vine del futuro, pero como programadora, hago que el futuro llegue más rápido.</strong></p>
-</div>
+<img height="200" src="https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif" style="float: left; margin-right: 20px;">
+<p><strong>No vine del futuro, pero como programadora, hago que el futuro llegue más rápido.</strong></p>
+
+<div style="clear: both;"></div>
 
 **Languages and Tools:** 
 
