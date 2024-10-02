@@ -4,7 +4,7 @@
 <p><bold>No vine del futuro, pero como programadora, hago que el futuro llegue más rápido.</bold></p>
 **Languages and Tools:** 
 
-<div margin="300"><img height="20", margin="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<div style="margin: 20px;"><img height="20", margin="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
