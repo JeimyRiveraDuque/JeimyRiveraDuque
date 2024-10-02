@@ -2,9 +2,12 @@
 <table style="border: none;">
   <tr>
     <td><img height="200" src="https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif"></td>
+
     
-    > [!IMPORTANT]
-    > No vine del futuro, pero como programadora, hago que el futuro llegue más rápido.
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
   </tr>
 </table>e>
 
