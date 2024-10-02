@@ -1,6 +1,6 @@
 ### BIENVENIDOS 👩🏻‍💻<br>
 
-  <img height="200" src="https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif">
+  <img height="200" src="https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif"> <p>hola </p>
 
 **Languages and Tools:** 
 
