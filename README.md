@@ -1,5 +1,5 @@
 ### Hi there 👨🏽‍💻
-<code><img height="50" src="https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif"></code>
+<img height="200" src="https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif">
 ```js
 const jeimy = {
   pronouns: "she" | "her",
